@@ -38,7 +38,7 @@
   "dependencies": {
     "@wessberg/color": "^1.0.5",
     "codeflask-element": "^1.0.3",
-    "immer": "^5.0.1",
+    "immer": "^8.0.1",
     "lit-element": "^2.2.1"
   }
 }
